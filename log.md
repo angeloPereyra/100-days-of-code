@@ -1,7 +1,5 @@
 # 100 Days Of Code - Log
 
-> Tatagal ba ako ng one week? HAHAHA idk
-
 ## Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -13,8 +11,20 @@
 
 ## Day 1: June 26, 2017
 
+> Tatagal ba ako ng one week? HAHAHA idk
+
 **Today's Progress**: Changed schema, database migration, and initial values for our inventory.
 
 **Thoughts:** I really __REALLY__ hope na last time na namin palitan 'tong schema or if not close to reality siya HAHAHA gash. Ilang beses ng napapalitan ung maintenance. Dagdag cols dito, bawas doon. *It's such a __work in progress__*. :sweat:
 
-**Link to work:** [Fashion Hub System Repo](https://github.com/angeloPereyra/fashionhub-sad) *private repository*
+**Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
+
+## Day 2: June 27, 2017
+
+**Today's Progress**: adjusted some maintenance programs dahil sa pag adjust sa db (ays
+
+**Thoughts:** There's not much progress :disappointed: Inayos ko lang naman ung mga maintenance which ilang beses ko ng ginagawa tapos di pa tapos ung isa. __Gusto ko naman ng bagong achievement noh HAHA__. Ang __bagal__ ko talaga. Alright. Tomorrow na tlga ung inventory HAHA wala na ung *diwa* ko gash 7:30 am pa pasok ko.
+
+**Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
+
+> Hala ang negative ... pero di ko buburahin bc that's how i feel right now
