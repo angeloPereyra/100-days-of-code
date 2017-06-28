@@ -35,4 +35,7 @@
 
 **Thoughts:** Ayan kasi. Di nag-iisip ng maaayos kaya naka-ilang ulit ka na sa form na yan HAHA galingan mo pa. Ginamit ko rin ung multiselect na nahanap ni julius. much better ganda ng css.
 
+### UPDATE
+- (june 29, 2017 12:54am) it's kinda working na hahaha pero no validations yet. pinagana ko lang para may sense of achievement si acoez HAHAHAH
+
 **Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
