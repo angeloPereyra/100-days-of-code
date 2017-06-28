@@ -21,10 +21,18 @@
 
 ## Day 2: June 27, 2017
 
-**Today's Progress**: adjusted some maintenance programs dahil sa pag adjust sa db (ays
+**Today's Progress**: adjusted some maintenance programs dahil sa pag adjust sa db (hays)
 
 **Thoughts:** There's not much progress :disappointed: Inayos ko lang naman ung mga maintenance which ilang beses ko ng ginagawa tapos di pa tapos ung isa. __Gusto ko naman ng bagong achievement noh HAHA__. Ang __bagal__ ko talaga. Alright. Tomorrow na tlga ung inventory HAHA wala na ung *diwa* ko gash 7:30 am pa pasok ko.
 
 **Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
 
 > Hala ang negative ... pero di ko buburahin bc that's how i feel right now
+
+## Day 3: June 28, 2017
+
+**Today's Progress**: working on receive delivery form (*for the nth time*)
+
+**Thoughts:** Ayan kasi. Di nag-iisip ng maaayos kaya naka-ilang ulit ka na sa form na yan HAHA galingan mo pa. Ginamit ko rin ung multiselect na nahanap ni julius. much better ganda ng css.
+
+**Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
