@@ -39,3 +39,12 @@
 - (june 29, 2017 12:54am) it's kinda working na hahaha pero no validations yet. pinagana ko lang para may sense of achievement si acoez HAHAHAH
 
 **Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
+
+## Day 4: June 29, 2017
+
+**Today's Progress**: still working on the form. inuupdate na yung price pag meron ngang nakitang change :D
+
+**Thoughts:** parang nagsisi ako na nagupdate ako sa windows. gosh ilang oras din akong naka-tengga. anyway, natutuwa din ako ngaung araw bc nadagdagan na ng 2 gumagawa sa system. even though ui lang ginagawa nila :heartpulse: it's nice to see new usernames sa commit tree namin HAHAHA :tada:
+
+
+**Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
