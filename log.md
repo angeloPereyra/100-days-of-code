@@ -46,5 +46,10 @@
 
 **Thoughts:** parang nagsisi ako na nagupdate ako sa windows. gosh ilang oras din akong naka-tengga. anyway, natutuwa din ako ngaung araw bc nadagdagan na ng 2 gumagawa sa system. even though ui lang ginagawa nila :heartpulse: it's nice to see new usernames sa commit tree namin HAHAHA :tada:
 
+## Day 5: June 30, 2017
+
+**Today's Progress**: reload datatable upon form submission on deliveries page :relaxed: mehehe tuwa si ako tlga doon
+
+**Thoughts:** once you start typing talaga. dun ka na maiimmerse sa code mo and you won't stop. buti ginawa ko yun kanina sa school and yey may nagawa ako kahit onti. and omg mukhang magpe-present kami bukas huhu. if not. baka sa wednesday na kami ??? i don't know what the future holds HAHA :sweat_smile: 
 
 **Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
