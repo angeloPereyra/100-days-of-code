@@ -53,3 +53,15 @@
 **Thoughts:** once you start typing talaga. dun ka na maiimmerse sa code mo and you won't stop. buti ginawa ko yun kanina sa school and yey may nagawa ako kahit onti. and omg mukhang magpe-present kami bukas huhu. if not. baka sa wednesday na kami ??? i don't know what the future holds HAHA :sweat_smile: 
 
 **Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
+
+<h1> July 1, 2017 - There we go. Nag skip ako ng isang araw xD gujab Neil #101DaysOfCode </h1>
+
+## Day 6: July 2, 2017
+
+**Today's Progress**: inventory index page filter thru status :3
+
+> dapat pala nag eenglish si acoez ...
+
+**Thoughts:** skipped for one day :< laziness hit me :sob:
+
+**Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
