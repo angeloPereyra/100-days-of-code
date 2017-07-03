@@ -65,3 +65,13 @@
 **Thoughts:** skipped for one day :< laziness hit me :sob:
 
 **Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
+
+## Day 7: July 3, 2017 (hooray for the first 7 days :tada:)
+
+**Today's Progress**: vue validation (!plugin) on inventory deliveries form
+
+**Thoughts:** spent 2+ hours on doing it because I was hesitant if should add a vue validation plugin. I was thinking there are only few fields in this form that I need to validate. So why should I not do it from scratch? I now remember why we use plugins for that xD 
+
+> hirap mag-english .. HAHAHA
+
+**Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
