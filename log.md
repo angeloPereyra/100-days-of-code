@@ -78,6 +78,6 @@
 
 ## Day 8: July 4, 2017
 
-**Today's Progress**: *soooo minimal, like pilit HAHA* finding out pa lang kung pano ba ung vlaidation namin sa maintenance and ung message chuchu 
+**Today's Progress**: *soooo minimal work today* fixing some validation errors in suppliers. will apply same code across maintenance programs
 
 **Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
