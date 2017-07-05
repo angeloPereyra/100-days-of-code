@@ -81,3 +81,9 @@
 **Today's Progress**: *soooo minimal work today* fixing some validation errors in suppliers. will apply same code across maintenance programs
 
 **Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
+
+## Day 9: July 5, 2017
+
+**Today's Progress**: fixed validations again. and trying to implement form warnings if similar records (wildcard queries) exists already
+
+**Link to work:** [Fashion Hub System](https://github.com/angeloPereyra/fashionhub-sad)  (private)
